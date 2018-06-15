@@ -6,7 +6,7 @@
   #rand(1..6)
 #end
 
-#def roll
- # array = [1, 2, 3, 4, 5, 6]
- # array[rand(0..5)]
-#end
+def roll
+ array = [1, 2, 3, 4, 5, 6]
+ array[rand(0..5)]
+end
